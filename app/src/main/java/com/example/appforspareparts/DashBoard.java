@@ -18,5 +18,7 @@ public class DashBoard extends AppCompatActivity {
     {
             //chal be chilgoze
 
+        String name = "Abba;";
+
     }
 }
