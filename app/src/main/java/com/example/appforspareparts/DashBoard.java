@@ -11,10 +11,12 @@ public class DashBoard extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_dash_board);
-            ///
+            ///dfghjk
     }
 
-    private void Abbal(String n) {
+    private void Abbal(String n)
+    {
+            //chal be chilgoze
 
     }
 }
